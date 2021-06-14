@@ -1,0 +1,25 @@
+{
+  "name": "parcel_template_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "bulid": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaeHong94/parcel_template_basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaeHong94/parcel_template_basic/issues"
+  },
+  "homepage": "https://github.com/JaeHong94/parcel_template_basic#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.34.1"
+  }
+}
